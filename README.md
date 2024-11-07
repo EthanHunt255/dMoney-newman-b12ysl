@@ -1,4 +1,4 @@
-# dmoney-newman-b12fysl
+# DMoney API Automation
 
 ## Project Summary:
 This project has automated user API from Postman using Newman
